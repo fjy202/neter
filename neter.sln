@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neter", "neter\neter.pyproj", "{38CA70DC-2BB2-40E3-BB0C-534064FD0246}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "neterserver", "neterserver\neterserver.pyproj", "{940991B9-3BA2-4CF4-B41F-E9900FBD1C3E}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "neter-client", "neter-client\neter-client.njsproj", "{53FE3FFB-C6F9-430E-B264-42B68552A434}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "neter-server", "neter-server\neter-server.njsproj", "{29E0E155-38CA-47A2-8013-569FDA02EC3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CA70DC-2BB2-40E3-BB0C-534064FD0246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CA70DC-2BB2-40E3-BB0C-534064FD0246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940991B9-3BA2-4CF4-B41F-E9900FBD1C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940991B9-3BA2-4CF4-B41F-E9900FBD1C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FE3FFB-C6F9-430E-B264-42B68552A434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FE3FFB-C6F9-430E-B264-42B68552A434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FE3FFB-C6F9-430E-B264-42B68552A434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FE3FFB-C6F9-430E-B264-42B68552A434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E0E155-38CA-47A2-8013-569FDA02EC3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E0E155-38CA-47A2-8013-569FDA02EC3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E0E155-38CA-47A2-8013-569FDA02EC3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E0E155-38CA-47A2-8013-569FDA02EC3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B9C638-EC66-4733-AB3C-582E7837CA99}
+	EndGlobalSection
+EndGlobal

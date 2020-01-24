@@ -1,0 +1,9 @@
+{
+  "name": "neter-server",
+  "version": "0.0.0",
+  "description": "neter-server",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

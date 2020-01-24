@@ -1,0 +1,13 @@
+{
+  "name": "neter-client",
+  "version": "0.0.0",
+  "description": "neter-client",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "commander": "^4.1.0"
+  }
+}
